@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Jetpackexercise</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="name">name</string>
+    <string name="phonenumber">phone_no</string>
+
+    <string name="email">email_id</string>
+
+
+</resources>
